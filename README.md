@@ -38,7 +38,9 @@ terraform plan
 
 terraform apply -var <db_pass> -var <db_root_pass>
 
-Check the Load Balancer DNS from AWS console
+#### Clean-up
+
+terraform destroy
 
 
   
