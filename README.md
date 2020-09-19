@@ -2,7 +2,7 @@
 
 Steps to provision:
 
-# Install Git, wget and unzip
+## Install Git, wget and unzip
 
 sudo yum install git wget unzip -y
 
