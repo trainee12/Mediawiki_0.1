@@ -28,6 +28,8 @@ git clone https://github.com/trainee12/Mediawiki_0.1
 #### Initialiaze
 
 cd Mediawiki_0.1/deploy/
+
+
 terraform init
 
 #### Plan
